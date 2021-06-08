@@ -1,0 +1,143 @@
+[[FGlT]]
+arch = "aarch64"
+git-tree-sha1 = "13f875ae97b71ee19042aed17c29204f3fd8982a"
+os = "macos"
+
+    [[FGlT.download]]
+    sha256 = "508d6a2efcb409e03ed8a6b04f6ad67fba64d361fd719d2ae545525f18237dc7"
+    url = "https://github.com/JuliaBinaryWrappers/FGlT_jll.jl/releases/download/FGlT-v1.0.0+0/FGlT.v1.0.0.aarch64-apple-darwin.tar.gz"
+[[FGlT]]
+arch = "aarch64"
+git-tree-sha1 = "1d9071f92980071507071a2881f61545396ad9a1"
+libc = "glibc"
+os = "linux"
+
+    [[FGlT.download]]
+    sha256 = "cda248ad984c8622524e8e07aea522234422d6da1f829a3daeec5e19fc5c226e"
+    url = "https://github.com/JuliaBinaryWrappers/FGlT_jll.jl/releases/download/FGlT-v1.0.0+0/FGlT.v1.0.0.aarch64-linux-gnu.tar.gz"
+[[FGlT]]
+arch = "aarch64"
+git-tree-sha1 = "52b0815d86d3b903d62313239dc241cc2b3374d4"
+libc = "musl"
+os = "linux"
+
+    [[FGlT.download]]
+    sha256 = "c5fe53588d9ab7ee1e7b7fabfe0b0f9edf66ce6da9bdb918b5e9848387ee50f2"
+    url = "https://github.com/JuliaBinaryWrappers/FGlT_jll.jl/releases/download/FGlT-v1.0.0+0/FGlT.v1.0.0.aarch64-linux-musl.tar.gz"
+[[FGlT]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "a448c4cb218913057602b6de5b0ff6194991afac"
+libc = "glibc"
+os = "linux"
+
+    [[FGlT.download]]
+    sha256 = "e44b45da034ac5bf67e8d3915c4432cac28f89676e342328c00d7e8e26d01db3"
+    url = "https://github.com/JuliaBinaryWrappers/FGlT_jll.jl/releases/download/FGlT-v1.0.0+0/FGlT.v1.0.0.armv6l-linux-gnueabihf.tar.gz"
+[[FGlT]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "4481a5d6f6895b0f4cd9f22f7b350611a919ebf4"
+libc = "musl"
+os = "linux"
+
+    [[FGlT.download]]
+    sha256 = "6c4767b0ee095185c413c68545ac33c030286c9c321c3c1a1df59e4ce0620c19"
+    url = "https://github.com/JuliaBinaryWrappers/FGlT_jll.jl/releases/download/FGlT-v1.0.0+0/FGlT.v1.0.0.armv6l-linux-musleabihf.tar.gz"
+[[FGlT]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "d8fe93782f36cd60eef1be67956eda0865a7c2d0"
+libc = "glibc"
+os = "linux"
+
+    [[FGlT.download]]
+    sha256 = "fa34b4bfc4dc26e74b48a93ba49da54a34424c71461fd33e7b0c9910af4e3515"
+    url = "https://github.com/JuliaBinaryWrappers/FGlT_jll.jl/releases/download/FGlT-v1.0.0+0/FGlT.v1.0.0.armv7l-linux-gnueabihf.tar.gz"
+[[FGlT]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "73225f58f8cb97fcc8c46692bc86097d97892e1f"
+libc = "musl"
+os = "linux"
+
+    [[FGlT.download]]
+    sha256 = "65d3647d3a85add1844605284f3fdbf338cc97fc51bd62e80f48e7eab6b7abd9"
+    url = "https://github.com/JuliaBinaryWrappers/FGlT_jll.jl/releases/download/FGlT-v1.0.0+0/FGlT.v1.0.0.armv7l-linux-musleabihf.tar.gz"
+[[FGlT]]
+arch = "i686"
+git-tree-sha1 = "c47abe31082df3b80da6a63ca282f6c3e74b3288"
+libc = "glibc"
+os = "linux"
+
+    [[FGlT.download]]
+    sha256 = "42d48704708b38b99612bc7e8af6fe6923cd0b0f14ea1b0b8ede08d28cafc1ef"
+    url = "https://github.com/JuliaBinaryWrappers/FGlT_jll.jl/releases/download/FGlT-v1.0.0+0/FGlT.v1.0.0.i686-linux-gnu.tar.gz"
+[[FGlT]]
+arch = "i686"
+git-tree-sha1 = "cbf9cf68e6403b2fddf5f14a1fe158843bfed909"
+libc = "musl"
+os = "linux"
+
+    [[FGlT.download]]
+    sha256 = "12767f03a5dc052f4c67099e788ebe588e1d823b48e3d998b8d6ec8a1f3a6a02"
+    url = "https://github.com/JuliaBinaryWrappers/FGlT_jll.jl/releases/download/FGlT-v1.0.0+0/FGlT.v1.0.0.i686-linux-musl.tar.gz"
+[[FGlT]]
+arch = "i686"
+git-tree-sha1 = "1092680022ebc83a6f6de87ada01a44851bd86bb"
+os = "windows"
+
+    [[FGlT.download]]
+    sha256 = "622e0d470ebf9c185022a6641fb91e34fca5c0d4e0e1699846a298b0aa0f7a74"
+    url = "https://github.com/JuliaBinaryWrappers/FGlT_jll.jl/releases/download/FGlT-v1.0.0+0/FGlT.v1.0.0.i686-w64-mingw32.tar.gz"
+[[FGlT]]
+arch = "powerpc64le"
+git-tree-sha1 = "af7adc00474370d87426dbb9de66c4761135417a"
+libc = "glibc"
+os = "linux"
+
+    [[FGlT.download]]
+    sha256 = "086bd05c544a2db056de0d851759a0a7e496e83decb42072cec82659b4a42608"
+    url = "https://github.com/JuliaBinaryWrappers/FGlT_jll.jl/releases/download/FGlT-v1.0.0+0/FGlT.v1.0.0.powerpc64le-linux-gnu.tar.gz"
+[[FGlT]]
+arch = "x86_64"
+git-tree-sha1 = "a83ad4e1c9185a00f82c171980edaa83642caf5b"
+os = "macos"
+
+    [[FGlT.download]]
+    sha256 = "6cca8280e6a2610410dd925df9d40b4fe9deb7febb11faaf931476abe1208060"
+    url = "https://github.com/JuliaBinaryWrappers/FGlT_jll.jl/releases/download/FGlT-v1.0.0+0/FGlT.v1.0.0.x86_64-apple-darwin.tar.gz"
+[[FGlT]]
+arch = "x86_64"
+git-tree-sha1 = "69384b37d2d1b15f4c3834f83ea4995d6c49e706"
+libc = "glibc"
+os = "linux"
+
+    [[FGlT.download]]
+    sha256 = "e08840d8fea069d15ba08a9a38944935b8d576172233f9af820005d2c34fa0a5"
+    url = "https://github.com/JuliaBinaryWrappers/FGlT_jll.jl/releases/download/FGlT-v1.0.0+0/FGlT.v1.0.0.x86_64-linux-gnu.tar.gz"
+[[FGlT]]
+arch = "x86_64"
+git-tree-sha1 = "12e1239a271e15d328c863d488c335f3aa929d30"
+libc = "musl"
+os = "linux"
+
+    [[FGlT.download]]
+    sha256 = "f7780cfde83e8dfe29c52a1bf0154d049e70dbae0242ebb0d3e0fb948a63b2b7"
+    url = "https://github.com/JuliaBinaryWrappers/FGlT_jll.jl/releases/download/FGlT-v1.0.0+0/FGlT.v1.0.0.x86_64-linux-musl.tar.gz"
+[[FGlT]]
+arch = "x86_64"
+git-tree-sha1 = "ac1948e8231eb090769e9662581657b8519dd27d"
+os = "freebsd"
+
+    [[FGlT.download]]
+    sha256 = "1a74599480aee944bea22f0d15bba0d5dea32d719e4040726d164f445d456bec"
+    url = "https://github.com/JuliaBinaryWrappers/FGlT_jll.jl/releases/download/FGlT-v1.0.0+0/FGlT.v1.0.0.x86_64-unknown-freebsd.tar.gz"
+[[FGlT]]
+arch = "x86_64"
+git-tree-sha1 = "7595ae571f0d6b2483af0985e5cf1cfd058ac4f9"
+os = "windows"
+
+    [[FGlT.download]]
+    sha256 = "04d4892db8ddcb5e925242a422434baab55043f2e31de33b460008b775e9c213"
+    url = "https://github.com/JuliaBinaryWrappers/FGlT_jll.jl/releases/download/FGlT-v1.0.0+0/FGlT.v1.0.0.x86_64-w64-mingw32.tar.gz"
